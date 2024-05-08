@@ -1,6 +1,9 @@
 ### Description
 
-A simple portfolio template for Computer Science and Cybersecurity professionals built with React. 
+이 페이지는 A simple portfolio template for Computer Science and Cybersecurity professionals built with React 를 활용하여 만들어진 포트폴리오 페이지입니다.
+[링크](https://phoneticsbug.github.io/sw_portpolio)를 통해 해당 페이지를 직접 확인해보실 수 있습니다.
+
+아래는 Git Repo download 이후 실제 실행하는 방법입니다.
 
 ![react portfoiio](src/assets/images/page.gif)
 
